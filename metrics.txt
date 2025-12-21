@@ -1,0 +1,29 @@
+Decision Tree Performance Metrics
+ROC-AUC:     0.5296
+PR-AUC:      0.3555
+Log-Loss:    0.6705
+Brier Score: 0.2389
+
+Random Forest Performance Metrics
+ROC-AUC:     0.5668
+PR-AUC:      0.3940
+Log-Loss:    0.6177
+Brier Score: 0.2127
+
+XGBoost Performance Metrics
+ROC-AUC:     0.6008
+PR-AUC:      0.4231
+Log-Loss:    0.6065
+Brier Score: 0.2083
+
+CatBoost Performance Metrics
+ROC-AUC:     0.5999
+PR-AUC:      0.4361
+Log-Loss:    0.6456
+Brier Score: 0.2265
+
+LightGBM Performance Metrics
+ROC-AUC:     0.5829
+PR-AUC:      0.4283
+Log-Loss:    0.6407
+Brier Score: 0.2248

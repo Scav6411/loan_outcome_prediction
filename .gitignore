@@ -1,0 +1,6 @@
+**/.vscode
+**/.env
+**/.venv
+**/catboost_info
+**/__pycache__/
+problem.pdf
